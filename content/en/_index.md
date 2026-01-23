@@ -3,122 +3,120 @@ linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
 comments: true
-next: /en/2026-01/2026-01-22
+next: /en/2026-01/2026-01-23
 description: Your daily source for curated AI news, practical tools, and actionable
   tutorials to master Artificial Intelligence;
 cascade:
   type: docs
 ---
-## AI Daily Dispatch: January 23, 2026
+## AI Daily News 2026/1/24
 
-> `AI News` | `Daily Brief` | `Web Data Aggregation` | `Cutting-Edge Science Exploration` | `Industry Voice` | `Open Source Innovation` | `AI & Humanity's Future` | [Visit Web Version↗️](https://ai.hubtoday.app/) | [Join Group Chat🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
+> `AI News` | `Daily Briefing` | `Web Data Aggregation` | `Cutting-Edge Scientific Exploration` | `Industry Free Expression` | `Open-Source Innovation Power` | `AI and Humanity's Future` | [Visit Web Version ↗️](https://ai.hubtoday.app/) | [Join the Group Chat](https://source.hubtoday.app/logo/wechat-qun.jpg)
 
-### **Today's Quick Bites**
+
+
+### **Today's Summary**
 
 ```
-Qwen3-TTS goes open-source, supporting 10-language end-to-end synthesis
-Grok video ups to 10 seconds; Fudan drops model safety evaluation
-Nadella: AI needs useful scenarios, fueling bubble concerns
-Kimi boasts 1% compute power beats closed-source rivals; self-built compute trend surges
-Remotion, Goose, FlashMLA & more open-source projects hit thousands of stars
+TRAE released 10 MCP tools covering the entire development process, including documentation browser and design drafts.
+DeepMind launched D4RT 4D reconstruction, 300 times faster than SOTA, processing 1 minute of video in 5 seconds.
+VibeTensor, with zero human code, generated a 47,000-line kernel, hailed as an AlphaGo moment.
+OpenAI considering taking a cut from AI-generated revenue sparked strong industry backlash.
+Amazon laid off 16,000 people; AI automation replaced recruitment and performance processes.
 ```
 
-### Product & Feature Drops
 
-1.  **Qwen3-TTS, the speech synthesis tech, just went officially open-source!**
-    The Tongyi team dropped the [Qwen3-TTS Full Family (AI News)](https://qwen.ai/blog?id=qwen3tts-0115), featuring VoiceDesign, CustomVoice, and Base modules. It comes with **0.6B and 1.8B** parameter options and rocks support for 10 languages. This end-to-end, native multimodal tech means you can kiss those robotic tones goodbye! 🥳 Developers can full-parameter fine-tune and deploy privately with zero hassle.
-    ![AI News: Qwen3-TTS Speech Synthesis Model Architecture Diagram](https://source.hubtoday.app/images/2026/01/news_01kfk6k78ge7htv30mhw36adyr.avif)<br/>
 
-2.  **xAI Grok's video generation just leveled up to 10 seconds!**
-    Grok Imagine officially launched its [10-second Video Generation Capability (AI News)](https://www.aibase.com/zh/news/24832), boasting seriously improved visual stability and detail. Audio sync is smooth as silk, and those pesky noise issues? Gone! Musk himself confirmed the update, calling it "pretty awesome." ❤️ While precise timing options are still missing, they're on the way. Community users are already cranking out some seriously creative short clips. 🚀
-    ![AI News: Grok Imagine Video Generation Interface Screenshot](https://source.hubtoday.app/images/2026/01/news_01kfk6kc01ez8aa12r5zk7xrjz.avif)<br/>
 
-3.  **Perfect Corp. has expanded its virtual try-on to nine new categories!**
-    Perfect Corp. just dropped [New Virtual Try-on Features for Nine Categories like Watches and Rings (AI News)](https://www.aibase.com/zh/news/24838) within its fashion API. Leveraging generative AI and computer vision, it accurately recognizes human bodies and lighting. The result? Super realistic outfit renderings that seriously boost buyer confidence! ✨ It supports MCP protocol, playing nice with all e-commerce channels, helping brands boost conversion rates and cut down on returns. Cha-ching! 💸
 
----
 
-### Research & Deep Dives
+### Product & Feature Updates
 
-1.  **Fudan University just dropped a killer report on cutting-edge large model security!**
-    Fudan University, teaming up with Shanghai Institute of Intelligent Science and other institutions, unveiled a [Security Evaluation Report for Six Leading Models (AI News)](https://arxiv.org/pdf/2601.10527). The evaluation blends **30 types of jailbreak attacks** across 18 language scenarios. GPT-5.2 nailed an average safety rate of 78.39%, leading the pack! 💪 Multi-round adaptive attacks are the biggest threat, with cross-language safety gaps hitting 20-40%. The report screams for a dynamic, evolving safety evaluation system. Time to get serious! 🚨
+1.  **Google's 4D World Model D4RT Released.**
+    DeepMind rolled out its [D4RT (AI News)](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652667206&idx=1&sn=03e9b198f84180c433c55f53413c8417) 4D world model, which reconstructs dynamic 🔥 videos into four-dimensional holographic scenes. This model is a game-changer for embodied AI and autonomous driving, boasting speeds **300 times faster** than existing SOTA, tracking 1570 3D trajectories simultaneously, and processing a minute of video in just 5 seconds!
+    ![AI News: D4RT 4D Reconstruction of Dynamic Scenes Effect](https://source.hubtoday.app/images/2026/01/news_01kfnnmwxzfj5spha9r04avrth.avif)<br/>
 
-2.  **The DrivIng dataset, now with digital twins, is officially out!**
-    Researchers just rolled out the [DrivIng Large-scale Multimodal Driving Dataset (AI News)](https://arxiv.org/abs/2601.15260), covering about 18 kilometers of urban to highway routes. It packs continuous recording from six RGB cameras and LiDAR, including day and night scenes. All sequences are annotated with 3D bounding boxes at 10Hz, totaling **1.2 million instances**! It supports 1:1 real-world traffic simulation migration and super flexible scenario testing. Pretty sweet! 🏎️ The dataset and code are now publicly available. Go grab 'em!
+2.  **OpenAI Updates ChatGPT Atlas Browser.**
+    OpenAI's ChatGPT Atlas browser for Mac 🚀 got a [major upgrade (AI News)](https://www.aibase.com/zh/news/24863). It now features **tab grouping** and automatically switches between ChatGPT and Google for search. Its vertical layout makes links stand out more 💡, and it supports iCloud password extension. A Windows version is currently in the works.
 
-3.  **Text-to-Video Review: Can Sora truly model the world?**
-    Researchers sifted through [250+ Text-to-Video and World Modeling Research Papers (AI News)](https://arxiv.org/abs/2403.05131), giving us a systematic peek into the tech's current state. Recent models are constantly pushing the boundaries in **spatial, action, and strategic intelligence**. Good news for integrity and consistency, while creativity and interactive control are steadily beefing up. The verdict? Text-to-video already has world-modeling chops! 🤯 Still, balancing diversity and consistency remains a puzzle to crack. What a ride! 🎢
+3.  **TRAE IDE Recommends 10 Hot MCP Servers.**
+    ByteDance's 🚀 [TRAE IDE (AI News)](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2652518328&idx=1&sn=50779cd8927dd77e50ca545745d9ce90) has updated its MCP toolkit, now recommending 10 popular MCP Servers. These tools cover the entire development process: **Context7** pulls official documentation in real-time, while **Puppeteer** and Playwright automate browser control. **Memory** persists user preferences, and **Figma AI Bridge** assists with design mock-up restoration.
 
-4.  **CityCube, a new benchmark, is testing VLMs on urban spatial reasoning!**
-    The new CityCube benchmark just dropped, zeroing in on [VLM Cross-view Urban Spatial Reasoning (AI News)](https://arxiv.org/abs/2601.14339) evaluation. It pulls in perspectives from vehicles, drones, satellites, and more. We're talking **5022 pairs of multi-view Q&A**, covering five cognitive dimensions. Massive VLMs only hit a 54.1% accuracy at best, lagging human performance by 34.2%—ouch! 😬 But here's the kicker: smaller fine-tuned models actually leapfrog to over 60%, screaming volumes about the benchmark's value. This changes the game! 🚀
+### Frontier Research
 
----
+1.  **VibeTensor: Deep Learning System Entirely Written by AI.**
+    [VibeTensor (AI News)](https://github.com/NVlabs/vibetensor), an open-source deep learning system from NVIDIA engineer Xu Bing, has been entirely written by AI, generating a 47,000-line kernel with **zero human code** 🔥. Chen Tianqi and Jia Yangqing praised it as an "AlphaGo moment" reminiscent of 2015. Even the paper itself was AI-written, raising questions about the Frankenstein effect and exposing the limitations of intelligent agents.
 
-### Industry Buzz & Societal Shakes
+2.  **CGS-GAN Achieves 3D Consistent Human Head Synthesis.**
+    A new paper, [CGS-GAN (AI News)](https://arxiv.org/abs/2505.17590), addresses the identity shift problem during viewpoint changes. This model is based on 3D Gaussian Splatting 💡, supporting **2048² resolution** output. Multi-view regularization techniques ensure stable training, resulting in highly competitive FID scores. <br/>
 
-1.  **Microsoft CEO Satya Nadella says we *need* to find useful scenarios for AI, sparking major community debate!**
-    Microsoft CEO Satya Nadella just put it out there: we [Need to Find Useful Scenarios for AI (AI News)](https://newshacker.me/story?id=46718485), and the community is buzzing. Critics are saying LLMs offer limited productivity boosts for average users, with "96% of people not significantly benefiting." Meanwhile, AI training is jacking up **GPU and flash memory prices**, and energy costs are shaping up to be the next big bottleneck. 🤯 Under this VC-driven bubble, the pressure for product-market fit is *intense*. Many are calling out corporate talk as a grab for "social license" rather than genuine user value. Tell it like it is! 🎤
+3.  **Event-VStream Real-Time Understanding of Long Video Streams.**
+    The new framework, [Event-VStream (AI News)](https://arxiv.org/abs/2601.15655), represents videos as discrete event sequences. It 🚀 surpassed the baseline by **10.4 points** in OVOBench tests. This framework maintains a 70% GPT-5 win rate for 2-hour Ego4D videos, marking a breakthrough in low-latency, long-duration inference. <br/>
 
-2.  **Moonshot AI's Kimi just made a splash at Davos!**
-    Kimi President Zhang Yutong announced at Davos that, using just **1% of US computing power**, they've [Surpassed Closed-Source Models (AI News)](https://www.aibase.com/zh/news/24854). This engineering-focused mindset is key to China's AI breakthrough. Kimi K2 Thinking? It's crushing complex task chain processing! 💪 Their open-source strategy is speeding up community feedback and iteration cycles. A new generation of models is dropping soon, promising beefed-up multimodal and Agent capabilities. Get ready! 🚀
+4.  **PyraTok Multi-Scale Video Tokenizer Released.**
+    The paper, [PyraTok (AI News)](https://arxiv.org/abs/2601.16210), introduces a language-aligned pyramid tokenization architecture. This multi-scale video tokenizer supports **4K/8K resolution** 🔥, achieves SOTA for zero-shot video segmentation, and shows excellent performance across ten benchmarks, significantly enhancing text-to-video quality. <br/>
 
-3.  **The trend of companies building their *own* AI compute power is booming!**
-    More and more companies are ditching cloud APIs to set up [Local AI Workstations (AI News)](https://www.aibase.com/zh/news/24855). Hardware investment typically pays off in just **1.5 to 2.5 years**, making it a smart economic move. You gotta match your GPU and memory configs to the task's complexity, of course. Kingston just rolled out a full-stack solution, covering DDR5 and enterprise-grade NVMe. Local deployment? It's all about data security AND supply chain resilience. Win-win! 💯
+### Industry Outlook & Social Impact
 
-4.  **eBay just banned AI proxy purchasing, sparking 'double standard' outrage!**
-    eBay updated its user agreement, explicitly [Prohibiting AI Proxy Purchasing Agents (AI News)](https://newshacker.me/story?id=46711574) from automatic ordering. Critics are fuming, calling out a **double standard** since "sniper bots" are still tolerated. LLM agents could lead to accidental purchases and skyrocketing refund costs. 💸 And let's not forget the cat-and-mouse game with browser fingerprinting and other detection methods. This clause? It might just be paving the way for post-event accountability and future monetization. Stay woke! 👀
+1.  **Google Restricts Programmable Search from Full Web Indexing.**
+    Google's decision to restrict Programmable Search has [niche search engines suffering (AI News)](https://newshacker.me/story?id=46730436). The new engine is limited to **50 domains**, and existing users must migrate by 2027. Vertex AI Search is emerging as the enterprise channel 🔥. European search engines like Qwant and Ecosia are attempting to build their own indexes, fully exposing the risks of platform dependency, a real bummer. <br/>
 
----
+2.  **OpenAI Considers Taking a Cut from AI-Generated Revenue.**
+    OpenAI is considering taking a cut from AI-generated revenue, a concept its CFO unveiled at the Davos Forum as "[value sharing (AI News)](https://www.jiqizhixin.com/articles/2026-01-23-10)". If drug development succeeds, OpenAI wants to 🔥 **share in the profits**. Altman also shared that API's monthly ARR surpassed $1 billion. This shift from selling tools to revenue sharing has sparked strong industry backlash.
 
-### Top Open-Source Projects You Need to Know
+3.  **Tencent Releases 2025 Anti-Fraud Report.**
+    Tencent released its 2025 anti-fraud report, detailing how [AI modeling aided precise crackdown (AI News)](https://www.aibase.com/zh/news/24888), resulting in over **70 cases** investigated throughout the year 💡. More than 90 individuals were dismissed, and over 20 were handed over to public security. Proactive detection was achieved in bidding and expense reimbursement processes, and 15 companies were added to a permanent blacklist. <br/>
 
-1.  **Remotion is an open-source framework for programmatic video creation!**
-    Remotion is the open-source framework that lets you craft videos programmatically using React, and it's already racked up [⭐26.4k (AI News)](https://github.com/remotion-dev/remotion) stars! Developers can control every single frame of their video with code. Perfect for automated marketing videos and data visualization scenes. How cool is that?! ✨
+4.  **SiYuan Technology's IPO Application Accepted, Aims to Raise 6 Billion.**
+    SiYuan Technology (燧原科技), the [AI chip company (AI News)](https://www.qbitai.com/2026/01/371924.html) heavily backed by Tencent, is now pushing for a STAR Market IPO, aiming to raise 6 billion yuan. Valued at nearly **20 billion yuan** 🚀, Tencent holds over 20% of its shares. Its revenue exceeded 540 million yuan in the first three quarters of 2025, and it expects to break even as early as 2026. This marks another major listing among China's "four little dragons" of domestic GPU manufacturers.
 
-2.  **Goose, built by the Block team, is an open-source, scalable AI agent!**
-    Goose, crafted by the Block team, is a scalable AI agent that's already hit [⭐27.0k (AI News)](https://github.com/block/goose) stars! It's not just about code suggestions; it supports installation, execution, editing, and testing. Plus, it can be driven by any LLM, making it super flexible. Talk about versatility! 🤯
+5.  **Amazon Reportedly Lays Off 16,000 Employees Again.**
+    Amazon is reportedly conducting another round of mass layoffs, impacting 16,000 employees, with [AI automation as the main cause (AI News)](https://www.aibase.com/zh/news/24884). The human resources department was hit hardest 💥 as AI replaced recruitment and performance processes. With AWS growth slowing, funds are being redirected to generative AI. In 2025 alone, AI-driven layoffs in the U.S. tech industry have already surpassed 50,000. <br/>
 
-3.  **DeepSeek just open-sourced FlashMLA, an efficient attention kernel!**
-    DeepSeek's FlashMLA is specifically engineered for [Efficient Multi-Head Latent Attention (AI News)](https://github.com/deepseek-ai/FlashMLA) and has already snagged ⭐12.1k stars. It optimizes MLA inference performance, drastically slashing computational overhead. That's a huge win for efficiency! 🚀
+### Open-Source TOP Projects
 
-4.  **Mastra, built by the Gatsby team, is a modern TypeScript AI framework!**
-    Mastra, brought to you by the Gatsby team, is a [TypeScript Tech Stack AI Application Framework (AI News)](https://github.com/mastra-ai/mastra) that's already scored ⭐20.0k stars. It supports building AI-driven applications and agents with a high degree of engineering sophistication. Super slick! ✨
+1.  **browser-use Makes Websites Accessible to AI Agents.**
+    [browser-use (AI News)](https://github.com/browser-use/browser-use), a project with ⭐76.2k stars, makes websites accessible to AI agents. It effortlessly 🚀 automates online tasks, allowing AI agents to directly control browsers and complete complex workflows. <br/>
 
-5.  **VidBee is your go-to global video download tool!**
-    VidBee lets you download videos from pretty much any website out there, and it's already got [⭐4.3k (AI News)](https://github.com/nexmoe/VidBee) stars. It covers all the major platforms and is super easy to use. No fuss, just downloads! 👍
+2.  **GitHub Copilot CLI: Terminal Programming Assistant.**
+    [copilot-cli (AI News)](https://github.com/github/copilot-cli) brings Copilot's capabilities 💡 to the command line, boasting ⭐7k stars. It allows you to directly invoke AI coding agents right from your terminal. <br/>
 
-6.  **Dexter is an autonomous agent designed for deep financial research!**
-    Dexter is an [Autonomous Agent (AI News)](https://github.com/virattt/dexter) specifically engineered for deep financial research, and it's already garnered ⭐8.2k stars. It tackles complex investment research analysis and data processing like a pro. Your new finance buddy! 📈
+3.  **FlashMLA: Efficient Multi-Head Latent Attention Kernel.**
+    DeepSeek open-sourced [FlashMLA (AI News)](https://github.com/deepseek-ai/FlashMLA), which has ⭐12.3k 🔥 stars. This project optimizes the computational efficiency of attention in large models. <br/>
 
----
+4.  **modded-nanogpt Trains 124M Models in Two Minutes.**
+    [modded-nanogpt (AI News)](https://github.com/KellerJordan/modded-nanogpt), a project with ⭐4.3k stars, enables ultra-fast training of NanoGPT, achieving astounding efficiency. <br/>
 
-### Social Buzz & Deep Dives
+### Social Media Shares
 
-1.  **Claude Code Skills mechanism gets a deep dive explanation!**
-    @shao__meng re-read the official docs to break down the [Differences between Skills and CLAUDE.md, etc. (AI News)](https://x.com/shao__meng/status/2014293158079984107). Skills load on demand, saving context and boosting reusability. Super smart! 🧠 Paired with Subagents, they can even spawn sub-agents. MCP provides external connections, while Skills offer usage guidance—a perfect duo. 🔗<br/><br/>
+1.  **WorkAny Desktop Agent Product is Now Open Source!**
+    WorkAny, a desktop agent product, has been open-sourced! Developers shared [WorkAny (AI News)](https://workany.ai/), which uses Claude Code as its runtime 🚀. It supports organizing files, generating PPTs/Excels, and reuses local subscriptions, so no extra fees are needed. Check out the [GitHub Repository (AI News)](https://m.okjike.com/originalPosts/697341a325bae5661230a35a) and give it a try! <br/>
+    ![AI News: WorkAny Desktop Agent Product Interface Display](https://source.hubtoday.app/images/2026/01/news_01kfnnn92bebxan1pev4jsdney.avif)<br/>
 
-2.  **Pencil, a design canvas powered by Claude Code, shared by @Gorden_Sun!**
-    @Gorden_Sun showed off 🎨[Pencil Infinite Canvas Tool (AI News)](https://x.com/Gorden_Sun/status/2014283345098907951), a tool that requires Claude Code login to use. It comes packed with multiple design component libraries and offers interactive visual operations. Sweet! ✨ It supports importing Figma files and manually tweaking text colors. Compared to Stitch, you skip the manual code edits, but the options are a bit more limited. Still, pretty neat!
-    <video src="https://source.hubtoday.app/images/2026/01/news_01kfk6q11ef8etatqse2ps5kwn.mp4" controls="controls" width="100%"></video><br/>
+2.  **Independent Developer Shares SEO Optimization Tips for Doubling Traffic.**
+    An independent developer [shared (AI News)](https://m.okjike.com/originalPosts/6973400b9f3cd84f656e2209) their SEO optimization tips 💡. They recommend separating feature pages from keyword pages and analyzing gaps by exporting search queries from GSC. In just half a month, site-wide exposure and clicks doubled!
 
-3.  **AI is gonna force a cognitive upgrade for eight professions, warns @huangyun_122!**
-    @huangyun_122 re-shared a viral post, claiming AI will inevitably [Bring Two Changes (AI News)](https://x.com/huangyun_122/status/2014239197503406287). Either you transform and upgrade your thinking, or you're out. 😬 Folks in eight professions will be the first to be pushed to grow. Personal brand awareness? It's waking up, offering a chance to smash through the old "involution" system. Time to adapt or get left behind! 🚀
+3.  **A16z Releases 56-Page AI Industry Market Data Report.**
+    A16z has released a 56-page AI industry market data report! This latest [market situation update (AI News)](https://m.okjike.com/originalPosts/6972e88c255767a63686ca7e) covers both primary and secondary markets 🔥. The [PDF download (AI News)](https://my.feishu.cn/wiki/QLGMw7G3ci97LQkEWaScHCUkn8d) is already compiled and is incredibly high quality. <br/>
+    ![AI News: A16z Report Cover Page](https://source.hubtoday.app/images/2026/01/news_01kfnnnewsemmt52pxyt3najae.avif)<br/>
 
-4.  **Tech is truly 'turning in circles,' muses @frxiaobei, from DOS to the Skill era!**
-    After a few days messing with skills, @frxiaobei pondered that tech really is [Turning in Circles (AI News)](https://x.com/frxiaobei/status/2014212352154173918). From DOS commands to Windows GUI, then back to the terminal. Now, we're all collectively returning to the command line, just with natural language. How wild is that?! 🤯 The core foundational capabilities are always what sets people apart. Knowledge is power! 💪
+4.  **Microsoft Releases Windows App Development CLI.**
+    Microsoft has finally released a Windows App Development CLI! Developers no longer need to rely on the massive [Visual Studio (AI News)](https://x.com/shao__meng/status/2014533635005886581) 💡. This open-source CLI streamlines the entire Windows application development process. <br/>
+    ![AI News: Windows App CLI Command Line Interface](https://source.hubtoday.app/images/2026/01/news_01kfnnnmn5fryr6g6jt908h9zm.avif)<br/>
 
-5.  **@dotey says selling HTML files is totally fine, and Skills are the next big biz!**
-    @dotey reckons [Selling HTML Files is Fine (AI News)](https://x.com/dotey/status/2014089924979364325) because browsers can do so much. When Agent OS becomes widespread, selling Skills will be a massive business. Think big bucks! 💰 The real trick? Finding your customers and actually *selling* them. Go get that bag! 🤑
+5.  **Baoyu Shares Prompt Learning Insights.**
+    Baoyu shared his prompt learning insights, emphasizing that every AI technology boom is a huge [learning opportunity (AI News)](https://x.com/dotey/status/2014416958125477894) 🚀. He suggests reverse-engineering GPT prompts and studying Skills documentation, noting that these readily available resources are like "stealing trade secrets" for learning. <br/>
+    ![AI News: Skills Learning Resources Screenshot](https://source.hubtoday.app/images/2026/01/news_01kfnnnrn6eqg9s105h7bmsdxq.avif)<br/>
 
-6.  **Anthropic just dropped the Claude Constitution document!**
-    @emollick points out that the 📜Claude Constitution really lays out [Anthropic's Thoughts on the Future of AI (AI News)](https://x.com/emollick/status/2014042317162791095). This massive document covers a ton of philosophical issues and is definitely worth serious attention beyond just the AI bubble. Food for thought! 🤔 Other labs should totally follow suit and be this transparent. Openness for the win! 👏
-    ![AI News: Claude Constitution Document Core Principles Page Screenshot](https://source.hubtoday.app/images/2026/01/news_01kfk6qge5es2tmzxgvh4dyzx3.avif)<br/>
+6.  **Ruan Yifeng Weekly Retrieval Agent Skill Released.**
+    The Ruan Yifeng Weekly Retrieval Agent Skill has been released! This [open-source project (AI News)](https://github.com/DophinL/ruanyifeng-weekly-skill) allows direct retrieval of Teacher Ruan's 8000+ tool resources 💡. Just input your question, and it returns the most relevant results! <br/>
+    ![AI News: Ruan Yifeng Weekly Retrieval Skill Interface](https://source.hubtoday.app/images/2026/01/news_01kfnnnvrze2c9tz1b119qr3vs.avif)<br/>
 
 ---
 
-## **AI Daily Dispatch: Audio Version**
+## **AI Daily News Voice Edition**
 
-| 🎙️ **Xiaoyuzhou** | 📹 **Douyin** |
+| 🎙️ **Xiaoyuzhou FM** | 📹 **Douyin** |
 | --- | --- |
-| [Afterlife Tavern](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
-| ![Little Universe](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Hub](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [Laisheng Xiaojiuguan](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
+| ![Podcast](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
